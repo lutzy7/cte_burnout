@@ -1,7 +1,7 @@
 # cte_burnout
-hud code for arduino r3
+ino hud code for arduino r3
 
-for heads-up Display
+for heads-up display
 reflected off the car windshield
 
 rjlutz@students.wcpss.net
